@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 8cda8067abdef104da8c94d6bd50867c
+timeCreated: 1465285830
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: "Layer:\u540A\u987602"
+    100002: "Layer:\u540A\u987603"
+    100004: Line05
+    100006: LWPolyline.250
+    100008: LWPolyline.251
+    100010: Rectangle14
+    100012: Rectangle15
+    100014: Rectangle16
+    100016: Rectangle17
+    100018: Rectangle18
+    100020: Rectangle19
+    100022: Rectangle20
+    100024: Rectangle21
+    100026: Rectangle22
+    100028: Rectangle23
+    100030: Rectangle515
+    100032: Rectangle516
+    100034: //RootNode
+    400000: "Layer:\u540A\u987602"
+    400002: "Layer:\u540A\u987603"
+    400004: Line05
+    400006: LWPolyline.250
+    400008: LWPolyline.251
+    400010: Rectangle14
+    400012: Rectangle15
+    400014: Rectangle16
+    400016: Rectangle17
+    400018: Rectangle18
+    400020: Rectangle19
+    400022: Rectangle20
+    400024: Rectangle21
+    400026: Rectangle22
+    400028: Rectangle23
+    400030: Rectangle515
+    400032: Rectangle516
+    400034: //RootNode
+    2300000: "Layer:\u540A\u987602"
+    2300002: "Layer:\u540A\u987603"
+    2300004: Line05
+    2300006: LWPolyline.250
+    2300008: LWPolyline.251
+    2300010: Rectangle14
+    2300012: Rectangle15
+    2300014: Rectangle16
+    2300016: Rectangle17
+    2300018: Rectangle18
+    2300020: Rectangle19
+    2300022: Rectangle20
+    2300024: Rectangle21
+    2300026: Rectangle22
+    2300028: Rectangle23
+    2300030: Rectangle515
+    2300032: Rectangle516
+    3300000: "Layer:\u540A\u987602"
+    3300002: "Layer:\u540A\u987603"
+    3300004: Line05
+    3300006: LWPolyline.250
+    3300008: LWPolyline.251
+    3300010: Rectangle14
+    3300012: Rectangle15
+    3300014: Rectangle16
+    3300016: Rectangle17
+    3300018: Rectangle18
+    3300020: Rectangle19
+    3300022: Rectangle20
+    3300024: Rectangle21
+    3300026: Rectangle22
+    3300028: Rectangle23
+    3300030: Rectangle515
+    3300032: Rectangle516
+    4300000: Rectangle515
+    4300002: Rectangle516
+    4300004: LWPolyline.250
+    4300006: Rectangle14
+    4300008: Rectangle15
+    4300010: Rectangle16
+    4300012: Rectangle17
+    4300014: Rectangle18
+    4300016: "Layer:\u540A\u987602"
+    4300018: Rectangle23
+    4300020: Rectangle19
+    4300022: Rectangle20
+    4300024: Rectangle21
+    4300026: Rectangle22
+    4300028: "Layer:\u540A\u987603"
+    4300030: LWPolyline.251
+    4300032: Line05
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

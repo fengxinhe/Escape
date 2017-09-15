@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: f15358deeec67c94aa073425f448d833
+timeCreated: 1465142635
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arch20_023_00
+    100002: arch20_023_01
+    100004: arch20_023_02
+    100006: arch20_036_00
+    100008: arch20_036_01
+    100010: arch20_036_02
+    100012: arch20_036_03
+    100014: arch20_036_04
+    100016: arch20_036_05
+    100018: arch20_036_06
+    100020: arch20_036_07
+    100022: arch20_036_08
+    100024: arch20_036_09
+    100026: Box186
+    100028: Box192
+    100030: Box193
+    100032: Box194
+    100034: Box195
+    100036: Box196
+    100038: Box201
+    100040: Box202
+    100042: ChamferBox
+    100044: ChamferBox01
+    100046: ChamferBox02
+    100048: Fil elect0
+    100050: //RootNode
+    100052: obj_01
+    100054: obj_01 1
+    100056: obj_02
+    100058: obj_02 1
+    100060: obj_03
+    100062: obj_03 1
+    100064: obj_04
+    100066: obj_04 1
+    100068: obj_05
+    100070: obj_05 1
+    100072: obj_06
+    100074: obj_06 1
+    100076: obj_07
+    100078: obj_08
+    100080: obj_09
+    100082: obj_10
+    100084: obj_11
+    100086: obj_12
+    100088: obj_13
+    100090: obj_14
+    100092: obj_15
+    100094: obj_16
+    100096: obj_17
+    100098: obj_18
+    100100: obj_19
+    100102: obj_20
+    100104: obj_21
+    100106: obj_22
+    100108: obj_23
+    100110: obj_24
+    100112: obj_25
+    100114: obj_26
+    100116: obj_27
+    100118: obj_28
+    100120: obj_29
+    100122: Object06
+    100124: Object07
+    100126: RenderStuff_Apple_Mac_24'_monitor
+    100128: Torus35
+    100130: Torus36
+    100132: Torus37
+    400000: arch20_023_00
+    400002: arch20_023_01
+    400004: arch20_023_02
+    400006: arch20_036_00
+    400008: arch20_036_01
+    400010: arch20_036_02
+    400012: arch20_036_03
+    400014: arch20_036_04
+    400016: arch20_036_05
+    400018: arch20_036_06
+    400020: arch20_036_07
+    400022: arch20_036_08
+    400024: arch20_036_09
+    400026: Box186
+    400028: Box192
+    400030: Box193
+    400032: Box194
+    400034: Box195
+    400036: Box196
+    400038: Box201
+    400040: Box202
+    400042: ChamferBox
+    400044: ChamferBox01
+    400046: ChamferBox02
+    400048: Fil elect0
+    400050: //RootNode
+    400052: obj_01
+    400054: obj_01 1
+    400056: obj_02
+    400058: obj_02 1
+    400060: obj_03
+    400062: obj_03 1
+    400064: obj_04
+    400066: obj_04 1
+    400068: obj_05
+    400070: obj_05 1
+    400072: obj_06
+    400074: obj_06 1
+    400076: obj_07
+    400078: obj_08
+    400080: obj_09
+    400082: obj_10
+    400084: obj_11
+    400086: obj_12
+    400088: obj_13
+    400090: obj_14
+    400092: obj_15
+    400094: obj_16
+    400096: obj_17
+    400098: obj_18
+    400100: obj_19
+    400102: obj_20
+    400104: obj_21
+    400106: obj_22
+    400108: obj_23
+    400110: obj_24
+    400112: obj_25
+    400114: obj_26
+    400116: obj_27
+    400118: obj_28
+    400120: obj_29
+    400122: Object06
+    400124: Object07
+    400126: RenderStuff_Apple_Mac_24'_monitor
+    400128: Torus35
+    400130: Torus36
+    400132: Torus37
+    2300000: arch20_023_00
+    2300002: arch20_023_01
+    2300004: arch20_023_02
+    2300006: arch20_036_00
+    2300008: arch20_036_01
+    2300010: arch20_036_02
+    2300012: arch20_036_03
+    2300014: arch20_036_04
+    2300016: arch20_036_05
+    2300018: arch20_036_06
+    2300020: arch20_036_07
+    2300022: arch20_036_08
+    2300024: arch20_036_09
+    2300026: Box186
+    2300028: Box192
+    2300030: Box193
+    2300032: Box194
+    2300034: Box195
+    2300036: Box196
+    2300038: Box201
+    2300040: Box202
+    2300042: ChamferBox
+    2300044: ChamferBox01
+    2300046: ChamferBox02
+    2300048: Fil elect0
+    2300050: obj_01
+    2300052: obj_01 1
+    2300054: obj_02
+    2300056: obj_02 1
+    2300058: obj_03
+    2300060: obj_03 1
+    2300062: obj_04
+    2300064: obj_04 1
+    2300066: obj_05
+    2300068: obj_05 1
+    2300070: obj_06
+    2300072: obj_06 1
+    2300074: obj_07
+    2300076: obj_08
+    2300078: obj_09
+    2300080: obj_10
+    2300082: obj_11
+    2300084: obj_12
+    2300086: obj_13
+    2300088: obj_14
+    2300090: obj_15
+    2300092: obj_16
+    2300094: obj_17
+    2300096: obj_18
+    2300098: obj_19
+    2300100: obj_20
+    2300102: obj_21
+    2300104: obj_22
+    2300106: obj_23
+    2300108: obj_24
+    2300110: obj_25
+    2300112: obj_26
+    2300114: obj_27
+    2300116: obj_28
+    2300118: obj_29
+    2300120: Object06
+    2300122: Object07
+    2300124: RenderStuff_Apple_Mac_24'_monitor
+    2300126: Torus35
+    2300128: Torus36
+    2300130: Torus37
+    3300000: arch20_023_00
+    3300002: arch20_023_01
+    3300004: arch20_023_02
+    3300006: arch20_036_00
+    3300008: arch20_036_01
+    3300010: arch20_036_02
+    3300012: arch20_036_03
+    3300014: arch20_036_04
+    3300016: arch20_036_05
+    3300018: arch20_036_06
+    3300020: arch20_036_07
+    3300022: arch20_036_08
+    3300024: arch20_036_09
+    3300026: Box186
+    3300028: Box192
+    3300030: Box193
+    3300032: Box194
+    3300034: Box195
+    3300036: Box196
+    3300038: Box201
+    3300040: Box202
+    3300042: ChamferBox
+    3300044: ChamferBox01
+    3300046: ChamferBox02
+    3300048: Fil elect0
+    3300050: obj_01
+    3300052: obj_01 1
+    3300054: obj_02
+    3300056: obj_02 1
+    3300058: obj_03
+    3300060: obj_03 1
+    3300062: obj_04
+    3300064: obj_04 1
+    3300066: obj_05
+    3300068: obj_05 1
+    3300070: obj_06
+    3300072: obj_06 1
+    3300074: obj_07
+    3300076: obj_08
+    3300078: obj_09
+    3300080: obj_10
+    3300082: obj_11
+    3300084: obj_12
+    3300086: obj_13
+    3300088: obj_14
+    3300090: obj_15
+    3300092: obj_16
+    3300094: obj_17
+    3300096: obj_18
+    3300098: obj_19
+    3300100: obj_20
+    3300102: obj_21
+    3300104: obj_22
+    3300106: obj_23
+    3300108: obj_24
+    3300110: obj_25
+    3300112: obj_26
+    3300114: obj_27
+    3300116: obj_28
+    3300118: obj_29
+    3300120: Object06
+    3300122: Object07
+    3300124: RenderStuff_Apple_Mac_24'_monitor
+    3300126: Torus35
+    3300128: Torus36
+    3300130: Torus37
+    4300000: Box192
+    4300002: Torus35
+    4300004: ChamferBox
+    4300006: Box186
+    4300008: Box193
+    4300010: Torus36
+    4300012: ChamferBox01
+    4300014: Box194
+    4300016: ChamferBox02
+    4300018: Box195
+    4300020: Torus37
+    4300022: Box196
+    4300024: arch20_023_00
+    4300026: arch20_023_01
+    4300028: arch20_023_02
+    4300030: RenderStuff_Apple_Mac_24'_monitor
+    4300032: Fil elect0
+    4300034: obj_01
+    4300036: obj_02
+    4300038: obj_04
+    4300040: obj_08
+    4300042: obj_09
+    4300044: obj_13
+    4300046: obj_14
+    4300048: obj_15
+    4300050: obj_03
+    4300052: obj_12
+    4300054: obj_11
+    4300056: obj_10
+    4300058: obj_07
+    4300060: obj_06
+    4300062: obj_05
+    4300064: obj_01
+    4300066: obj_02
+    4300068: obj_03
+    4300070: obj_04
+    4300072: obj_05
+    4300074: obj_06
+    4300076: obj_21
+    4300078: obj_22
+    4300080: obj_16
+    4300082: obj_17
+    4300084: obj_18
+    4300086: obj_19
+    4300088: obj_20
+    4300090: obj_23
+    4300092: obj_24
+    4300094: obj_25
+    4300096: obj_26
+    4300098: obj_27
+    4300100: obj_28
+    4300102: obj_29
+    4300104: Box201
+    4300106: Object06
+    4300108: Object07
+    4300110: Box202
+    4300112: arch20_036_02
+    4300114: arch20_036_03
+    4300116: arch20_036_04
+    4300118: arch20_036_05
+    4300120: arch20_036_06
+    4300122: arch20_036_07
+    4300124: arch20_036_08
+    4300126: arch20_036_09
+    4300128: arch20_036_01
+    4300130: arch20_036_00
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
